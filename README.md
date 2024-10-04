@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R2Cool2024
+- 👋 Hi, I’m @R2Cool
 - 👀 I’m interested in Web Design and AI
 - 🌱 I’m currently learning UI/UX Design and coding
 - 💞️ I’m looking to collaborate on creating web project
